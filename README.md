@@ -14,3 +14,7 @@ Grupa studencka: WELE18DE1N1
 
 # Pytania do zadań z instrukcji
 
+1. W jaki sposób można rozbudować funkcjonalność programu w  przypadku  gdy  liczba  naciśnięć  przycisku  przekroczy  określoną  ilość. 
+Dodałbym nową zmienną przeładowanie o wartości zero.
+następnie sprawdzałbym czy doszło do przeładowania.
+Jeśli tak zwiększyłbym wartość przeładowania o ilość kliknięć oraz zerował wartość liczba nacisniec.

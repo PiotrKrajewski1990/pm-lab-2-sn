@@ -2,7 +2,7 @@
 
 #include<Arduino.h>
  
-#defineADC_RESOLUTION_DEFAULT (5.0f / 1024.0f)
+#define ADC_RESOLUTION_DEFAULT (5.0f / 1024.0f)
 uint16_tdigital;
 flcat voltage;
  

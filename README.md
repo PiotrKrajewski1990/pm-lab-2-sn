@@ -18,3 +18,9 @@ Grupa studencka: WELE18DE1N1
 Dodałbym nową zmienną przeładowanie o wartości zero.
 następnie sprawdzałbym czy doszło do przeładowania.
 Jeśli tak zwiększyłbym wartość przeładowania o ilość kliknięć oraz zerował wartość liczba nacisniec.
+2. Wjaki sposób można zwiększyć liczbę obsługiwanych poleceń oraz liczbę obsługiwanych parametrów?
+Dodać w else if  nową nazwę polecenia.
+Zwiększyć o kolejne else if (!strcmp(parmStr, "polecenie"))
+{
+    pozostała część kodu ktora ma sie wykonać 
+}
